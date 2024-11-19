@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siaiav
+- 👀 I’m interested in System analysis
+- 🌱 I’m currently learning python
+- 📫 Telegram: @siaiav
+- ⚡ Fun fact: 
