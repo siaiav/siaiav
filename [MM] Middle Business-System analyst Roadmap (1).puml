@@ -1,0 +1,220 @@
+@startmindmap
+/'
+    #LightSteelBlue - не пройдено
+    #Orange - в процессе изучения
+    #YellowGreen - пройдено
+    ✅ Есть компетенция
+    ❌ Нет компетенции
+    ❓ Есть вопросы по компетенции
+    ⭕ Не проработано
+
+'/
+legend top right
+   <#GhostWhite,#GhostWhite>|        |= __Легенда__ | |
+   | 🌱 | Базовый уровень           | Общее представление о компетенции и способность выполнять простые задачи под руководством.                                                                                             |
+   | 🔶 | Средний уровень           | Способность работать самостоятельно и применять компетенцию для решения задач средней сложности. Для теоретических компетенций, вроде Сети - глубина знаний средняя                  |
+   | 🌟 | Профессиональный уровень  | Владение глубокими знаниями и опытом, способность не только выполнять сложные задачи, но и оптимизировать процесс в рамках своей компетенции.                                          |
+end legend
+
+title "Business-System analyst Roadmap"
+*[#LightSteelBlue] Бизнес и системный аналитик SberCRM
+    top to bottom direction
+    *[#LightSteelBlue] Middle
+        *[#LightSteelBlue]  Опыт
+            *[#LightSteelBlue]_ от 2 до 5 лет
+        *[#LightSteelBlue] Hard Skills
+            left to right direction
+            *[#LightSteelBlue] Бизнес-анализ
+                *[#LightSteelBlue] 🌟🌟 Настройка SberCRM
+                    *[#LightSteelBlue]_ 🌟🌟 Калькулируемые поля и валидации
+                    *[#LightSteelBlue]_ 🌟🌟 Веб-хуки
+                    *[#LightSteelBlue]_ 🌟🌟 Проектирование логической \nмодели предметной области \n(сложная)
+                *[#LightSteelBlue] 🔶🌟 Документирование
+                    *[#LightSteelBlue]_ 🔶🌟 Описание бизнес требований
+                    *[#LightSteelBlue]_ 🔶🌟 Методы организации знаний
+                    *[#LightSteelBlue]_ 🔶🌟 Системы управления знаниями
+                        *[#LightSteelBlue]_ 🌟 Confluence
+                *[#LightSteelBlue] 🔶🌟 Бизнес требования
+                    *[#LightSteelBlue] 🔶🌟 Виды требований
+                        *[#LightSteelBlue]_ 🔶🌟 Бизнес требования
+                        *[#LightSteelBlue]_ 🔶🌟 Бизнес правила
+                        *[#LightSteelBlue]_ 🔶🌟 Функциональные требования
+                        *[#LightSteelBlue]_ 🔶🔶 Нефункциональные требования
+                        *[#LightSteelBlue]_ 🔶🌟 Пользовательские требования
+                    *[#LightSteelBlue] 🌱🔶 CJM Карты
+                    *[#LightSteelBlue] 🔶🌟 Методы сбора требований
+                        *[#LightSteelBlue]_ 🔶🌟 Интервью
+                        *[#LightSteelBlue]_ 🔶🌟 Наблюдение
+                        *[#LightSteelBlue]_ 🌱🌟 Прототипирование
+                        *[#LightSteelBlue]_ 🌱🌟 Анализ документов
+                    *[#LightSteelBlue] 🔶🌟 Этапы разработки и управления требованиями
+                        *[#LightSteelBlue]_ 🔶🌟 Выявление
+                        *[#LightSteelBlue]_ 🔶🌟 Анализ
+                        *[#LightSteelBlue]_ 🔶🌟 Документирование
+                        *[#LightSteelBlue]_ 🔶🌟 Утверждение
+                *[#LightSteelBlue] 🔶🌟 Жизненный цикл ПО
+                    *[#LightSteelBlue] 🔶🌟 Методология разработки ПО
+                        *[#LightSteelBlue]_ 🌱🌟 Waterfall Model
+                        *[#LightSteelBlue]_ 🔶🌟 Agile (Scrum, Kanban, XP, FDD)
+                *[#LightSteelBlue] 🌱🌟 Процесс
+                    *[#LightSteelBlue] 🌱🌟 Управление процессом
+                    *[#LightSteelBlue] 🌱🌟 Моделирование процессов
+                    *[#LightSteelBlue] 🌱🌟 Система управления процессами (BPM)
+                        *[#LightSteelBlue]_ 🌱🔶 Camunda
+            *[#LightSteelBlue] Системный анализ
+                *[#LightSteelBlue] 🌱 Архитектура
+                    *[#LightSteelBlue] 🌱 Типы архитектуры    
+                        *[#LightSteelBlue]_ 🌱 Клиент-серверная архитектура
+                        *[#LightSteelBlue]_ 🌱 Слоистая архитектура
+                        *[#LightSteelBlue]_ 🔶 Микросервисная архитектура
+                    *[#LightSteelBlue] 🌱 Паттерны проектирования
+                    *[#LightSteelBlue] 🌱 Serverless
+                *[#LightSteelBlue] 🔶 Работа с данными
+                    *[#LightSteelBlue] 🔶 Модель данных
+                        *[#LightSteelBlue]_ 🔶 Реляционные
+                        *[#LightSteelBlue]_ 🌱 Иерархические
+                        *[#LightSteelBlue]_ 🌱 Сетевые
+                        *[#LightSteelBlue]_ 🌱 Объектно-ориентированные
+                    *[#LightSteelBlue] 🔶 Форматы данных
+                        *[#LightSteelBlue]_ 🔶 CSV
+                        *[#LightSteelBlue]_ 🔶 JSON
+                        *[#LightSteelBlue]_ 🌱 YAML
+                        *[#LightSteelBlue]_ 🌟 Excel
+                    *[#LightSteelBlue] 🌱 Визуализация данных  
+                    *[#LightSteelBlue] 🌱 Файловое хранилище
+                        *[#LightSteelBlue]_ 🌱 Amazon S3 (Simple Storage Service)
+                    *[#LightSteelBlue] 🔶 Базы данных
+                        *[#LightSteelBlue] 🌱 Документоориентированные
+                        *[#LightSteelBlue] 🌱 Графовые
+                        *[#LightSteelBlue] 🌱 Колоночные
+                        *[#LightSteelBlue] 🔶 Реляционные
+                    *[#LightSteelBlue] 🔶 SQL
+                *[#LightSteelBlue] 🔶 Проектирование
+                    *[#LightSteelBlue] 🔶 UI и UX
+                        *[#LightSteelBlue]_ 🌱 Основы UI/UX
+                            *[#LightSteelBlue]_ 🌱 Layout
+                            *[#LightSteelBlue]_ 🌱 Цвета и типография
+                            *[#LightSteelBlue]_ 🌱 Дизайн система
+                            *[#LightSteelBlue]_ 🌱 UX Стратегия
+                            *[#LightSteelBlue]_ 🔶 UX Исследования
+                    *[#LightSteelBlue] Нотации
+                        *[#LightSteelBlue]_ UML
+                            *[#LightSteelBlue]_ 🔶 Диаграмма классов (Сlass diagram)
+                            *[#LightSteelBlue]_ 🔶 Диаграмма прецедентов (Use case diagram)
+                            *[#LightSteelBlue]_ 🔶 Диаграмма последовательностей (Sequence diagram)
+                        *[#LightSteelBlue]_ 🔶 BPMN
+                        *[#LightSteelBlue]_ 🔶 ERD
+                *[#LightSteelBlue] 🔶 Разработка
+                    *[#LightSteelBlue] 🔶 Frontend
+                    *[#LightSteelBlue] 🔶 Backend
+                    *[#LightSteelBlue] 🌱 Git
+                *[#LightSteelBlue] 🔶 Тестирование
+                    *[#LightSteelBlue] 🔶 Базовые знания тестирования ПО
+                        *[#LightSteelBlue]_ 🔶 Функциональное тестирование
+                        *[#LightSteelBlue]_ 🔶 Нефункциональное тестирование
+                        *[#LightSteelBlue]_ 🔶 Регрессионное тестирование
+                        *[#LightSteelBlue]_ 🔶 Приемочное тестирование
+                    *[#LightSteelBlue] 🔶 Умение разрабатывать тест-кейсы 
+                    *[#LightSteelBlue] 🔶 Навыки написания и проверки тестовых сценариев
+                    *[#LightSteelBlue] 🔶 Анализ тестовых данных
+                    *[#LightSteelBlue] 🌱 Понимание автоматизации тестирования 
+                    *[#LightSteelBlue] 🔶 Навыки работы с баг-трекинговыми системами 
+                *[#LightSteelBlue] 🌱 Сети
+                    *[#LightSteelBlue]_ 🌱 Как работает Интернет
+                    *[#LightSteelBlue]_ 🌱 Браузер
+                    *[#LightSteelBlue]_ 🌱 DNS
+                    *[#LightSteelBlue]_ 🌱 Домены и URI
+                    *[#LightSteelBlue]_ 🌱 HTTP/HTTPS
+                    *[#LightSteelBlue]_ 🌱 Хостинг
+                *[#LightSteelBlue] 🔶 API и интеграции
+                    *[#LightSteelBlue] 🔶 Аутентификация, Авторизация и Идентификация
+                    *[#LightSteelBlue] 🔶 Синхронное/Асинхронное взаимодействие
+                    *[#LightSteelBlue] 🔶 Contract first/Code first
+                    *[#LightSteelBlue] 🔶 Open API
+                    *[#LightSteelBlue] 🔶 REST
+                    *[#LightSteelBlue] 🔶 WebSocket
+                    *[#LightSteelBlue] 🔶 Брокеры сообщений
+                        *[#LightSteelBlue]_ 🌱 RabbitMQ
+                        *[#LightSteelBlue]_ 🔶 Kafka
+                    *[#LightSteelBlue] 🔶 Паттерны интеграции
+                        *[#LightSteelBlue]_ 🔶 Издатель-Подписчик
+                        *[#LightSteelBlue]_ 🔶 Очередь сообщений
+                        *[#LightSteelBlue]_ 🔶 Запрос-Ответ
+                        *[#LightSteelBlue]_ 🌱 Архитектура, основанная на событиях
+                *[#LightSteelBlue] 🔶 Инструменты
+                    *[#LightSteelBlue]_ 🔶 PlantUML
+                    *[#LightSteelBlue]_ 🌱 Figma, Pixso
+                    *[#LightSteelBlue]_ 🔶 Draw.io
+                    *[#LightSteelBlue]_ 🔶 Browser DevTools
+                    *[#LightSteelBlue]_ 🔶 Инструменты тестирования API
+                        *[#LightSteelBlue]_ 🔶 Postman
+                        *[#LightSteelBlue]_ 🔶 Insomnia
+                *[#LightSteelBlue] 🔶 Требования к системе
+                    *[#LightSteelBlue] 🔶 Документирование требований
+                        *[#LightSteelBlue]_ 🔶 Спецификация требований
+                        *[#LightSteelBlue]_ 🔶 Диаграммы
+                            *[#LightSteelBlue]_ 🔶 ER
+                            *[#LightSteelBlue]_ 🔶 Sequence
+                            *[#LightSteelBlue]_ 🔶 Activity
+                        *[#LightSteelBlue]_ 🔶 Use Case
+                        *[#LightSteelBlue]_ 🌱🔶 Прототипирование
+                            *[#LightSteelBlue]_ 🌱 Прототип в Pixso
+                    *[#LightSteelBlue] 🔶 User Story Map
+            *[#LightSteelBlue] 🔶 Предметная область
+                *[#LightSteelBlue] 🔶🔶 Изучение конкурентов
+                    *[#LightSteelBlue]_ 🔶🔶 Битрикс 24
+                    *[#LightSteelBlue]_ 🔶🔶 AmoCRM
+                    *[#LightSteelBlue]_ 🌱🔶 Salesforce
+                    *[#LightSteelBlue]_ 🔶🔶 Zoho
+                    *[#LightSteelBlue]_ 🌱🌱Vtiger
+                    *[#LightSteelBlue]_ 🌱🌟 ELMA
+                    *[#LightSteelBlue]_ 🌱🌟 SAP CRM/C4C
+                *[#LightSteelBlue] 🔶🔶 Процессы, автоматизируемые в CRM 
+                    *[#LightSteelBlue]_ 🔶🔶 Продажи
+                    *[#LightSteelBlue]_ 🌱🔶 Маркетинг
+                    *[#LightSteelBlue]_ 🔶🔶 Обслуживание
+            *[#LightSteelBlue] 🔶🔶 Архитектура SberCRM 
+        *[#LightSteelBlue] Soft Skills
+            *[#LightSteelBlue] 🔶🔶 Анализ
+                *[#LightSteelBlue] 🔶🌟 Методы анализа
+                    *[#LightSteelBlue]_ 🌱🌟 SWOT-анализ 
+                    *[#LightSteelBlue]_ 🔶🌟 Анализ потребностей клиентов
+                    *[#LightSteelBlue]_ 🔶🌟 Анализ конкурентов 
+                    *[#LightSteelBlue]_ 🌱🔶 Анализ данных 
+                    *[#LightSteelBlue]_ 🌱🔶 Анализ процессов 
+                *[#LightSteelBlue] 🔶🔶 Навыки анализа
+                    *[#LightSteelBlue]_ 🔶🔶 Умение работать с данными.
+                    *[#LightSteelBlue]_ 🔶🔶 Умение интерпретировать информацию
+                    *[#LightSteelBlue]_ 🔶🔶 Умение формулировать и решать проблемы
+                    *[#LightSteelBlue]_ 🔶🔶 Умение работать с аналитическими инструментами и методиками. 
+            *[#LightSteelBlue] 🔶🔶 Логическое мышление
+                *[#LightSteelBlue]_ 🔶🔶 Идентификация причинно-следственных связей
+                *[#LightSteelBlue]_ 🔶🔶 Анализ и классификация информации
+                *[#LightSteelBlue]_ 🔶🔶 Обнаружение и анализ аргументов
+                *[#LightSteelBlue]_ 🔶🔶 Применение строгой логики и правил вывода
+                *[#LightSteelBlue]_ 🔶🔶 Систематический и логический подход к решению задач
+            *[#LightSteelBlue] 🔶🌟 Креативность
+            *[#LightSteelBlue] 🔶🔶 Критическое мышление
+                *[#LightSteelBlue]_ 🔶🔶 Анализ и оценка информации
+                *[#LightSteelBlue]_ 🔶🔶 Выявление предположений и суждений
+                *[#LightSteelBlue]_ 🔶🔶 Поиск альтернативных точек зрения
+                *[#LightSteelBlue]_ 🔶🔶 Оценка качества доказательств и аргументов
+                *[#LightSteelBlue]_ 🔶🔶 Принятие обоснованных и разумных решений
+            *[#LightSteelBlue] 🔶🌟 Аналитическое мышление
+                *[#LightSteelBlue]_ 🔶🌟 Анализ требований
+            *[#LightSteelBlue] 🔶🔶 Системное мышление
+            *[#LightSteelBlue] 🔶🌟 Демонстрации
+                *[#LightSteelBlue]_ 🔶🌟 Представление функциональности
+                *[#LightSteelBlue]_ 🔶🌟 Обратная связь и уточнение требований
+                *[#LightSteelBlue]_ 🔶🌟 Выявление проблем и исправление ошибок:
+                *[#LightSteelBlue]_ 🔶🌟 Участие заинтересованных сторон
+                *[#LightSteelBlue]_ 🔶 Поддержка принятия решений
+            *[#LightSteelBlue] 🔶🌟 Интервью
+            *[#LightSteelBlue] 🔶🌟 Тайм менеджмент
+            *[#LightSteelBlue] 🔶🌟 Коммуникации
+                *[#LightSteelBlue]_ 🔶🌟 Ясность и точность
+                *[#LightSteelBlue]_ 🔶🌟 Активное слушание
+                *[#LightSteelBlue]_ 🔶🌟 Эмпатия и эмоциональный интеллект
+                *[#LightSteelBlue]_ 🔶🔶 Убеждение и презентация
+                *[#LightSteelBlue]_ 🔶🔶 Гибкость и адаптивность
+@endmindmap
