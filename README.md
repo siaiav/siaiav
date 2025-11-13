@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @siaiav
-- 👀 I’m interested in System analysis
-- 🌱 I’m currently learning python
+- 👀 I’m interested in System analysis and NLP
+- 🌱 I’m currently learning ML
 - 📫 Telegram: @siaiav
-- ⚡ Fun fact: 
